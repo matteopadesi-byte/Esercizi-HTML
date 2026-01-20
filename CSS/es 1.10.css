@@ -1,0 +1,11 @@
+a[target="_blank"]::after {
+  content: "■";
+}
+
+a[href$=".pdf"] {
+  color: red;
+}
+
+a[href^="mailto:"] {
+  color: green;
+}

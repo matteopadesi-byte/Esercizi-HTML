@@ -1,0 +1,11 @@
+.lista li:nth-child(even) {
+  background-color: lightgray;
+}
+
+.lista li:first-child {
+  font-weight: bold;
+}
+
+.lista li:last-child {
+  text-decoration: underline;
+}

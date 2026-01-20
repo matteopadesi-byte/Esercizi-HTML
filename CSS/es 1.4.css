@@ -1,0 +1,8 @@
+nav ul li a {
+  color: white;
+}
+
+article p a {
+  color: blue;
+  text-decoration: underline;
+}

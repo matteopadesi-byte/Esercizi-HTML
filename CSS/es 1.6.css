@@ -1,0 +1,9 @@
+.bottone {
+  background-color: blue;
+  color: white;
+  padding: 10px, 20px;
+}
+
+.bottone:hover {
+  background-color: darkblue;
+}

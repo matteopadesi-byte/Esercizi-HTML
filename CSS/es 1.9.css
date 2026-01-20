@@ -1,0 +1,11 @@
+.citazione::before {
+  content: "<<";
+  color: green;
+  font-size: larger;
+}
+
+.citazione::after {
+  content: ">>";
+  color: green;
+  font-size: larger;
+}

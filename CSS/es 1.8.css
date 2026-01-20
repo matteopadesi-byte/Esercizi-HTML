@@ -1,0 +1,16 @@
+input[type="text"] {
+  border: 1px solid gray;
+}
+
+input[type="email"] {
+  border: 1px solid gray;
+}
+
+input:focus {
+  border-color: red;
+  box-shadow: 5px 5px 5px;
+}
+
+button:hover {
+  color: red;
+}

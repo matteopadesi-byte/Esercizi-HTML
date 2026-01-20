@@ -1,0 +1,19 @@
+.colore-nome {
+  background-color: red;
+}
+
+.colore-hex {
+  background-color: #3498db;
+}
+
+.colore-rgb {
+  background-color: rgb(46, 204, 113);
+}
+
+.colore-rgba {
+  background-color: rgba(155, 89, 182, 0.7);
+}
+
+.colore-hsl {
+  background-color: hsl(48, 100%, 50%);
+}

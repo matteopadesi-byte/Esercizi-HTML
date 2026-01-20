@@ -1,0 +1,8 @@
+h2 + p {
+  font-style: italic;
+  font-size: large;
+}
+
+h3 + p {
+  font-weight: bold;
+}
