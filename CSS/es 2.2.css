@@ -1,6 +1,13 @@
 .hero {
-  background-image: url(cane.jpg);
+  background-color: aqua;
+  color: white;
+  text-align: center;
+  background-image:
+    linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)),
+    url(cane.jpg);
   background-repeat: no-repeat;
-  height: 400px;
+  width: 800px;
+  height: 600px;
   background-position: center;
+  background-size: cover;
 }
