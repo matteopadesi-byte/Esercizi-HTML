@@ -1,0 +1,32 @@
+h1 {
+  font-size: 36px;
+  font-weight: bolder;
+  color: rgb(256, 0, 0);
+  font-family: Arial;
+}
+
+h2 {
+  font-size: 28px;
+  font-weight: bolder;
+  color: rgb(0, 256, 256);
+  font-family: Arial;
+}
+
+h3 {
+  font-size: 22px;
+  font-weight: bold;
+  color: rgb(256, 0, 256);
+  font-family: Arial;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.6;
+  font-family: Arial;
+}
+
+small {
+  font-size: 14px;
+  color: gray;
+  font-family: Arial;
+}

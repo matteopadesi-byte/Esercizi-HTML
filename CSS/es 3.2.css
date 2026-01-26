@@ -1,0 +1,32 @@
+.uno {
+  font-size: 30px;
+  font-family: Arial;
+  text-transform: uppercase;
+}
+
+.due {
+  font-size: 30px;
+  font-family: Arial;
+  text-decoration: underline;
+}
+
+.tre {
+  font-size: 30px;
+  font-family: Arial;
+  letter-spacing: 25px;
+}
+
+.quattro {
+  font-size: 30px;
+  font-family: Arial;
+  text-align: justify;
+}
+
+.cinque {
+  font-size: 30px;
+  font-family: Arial;
+}
+
+.cinque::first-letter {
+  font-size: 50px;
+}

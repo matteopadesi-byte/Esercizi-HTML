@@ -1,0 +1,17 @@
+.uno {
+  width: 400px;
+  height: 200px;
+  background: linear-gradient(to right, blue, green);
+}
+
+.due {
+  width: 400px;
+  height: 200px;
+  background: linear-gradient(to bottom, black, rgba(0, 0, 0, 0));
+}
+
+.tre {
+  width: 400px;
+  height: 200px;
+  background: linear-gradient(45deg, red, orange, yellow);
+}
