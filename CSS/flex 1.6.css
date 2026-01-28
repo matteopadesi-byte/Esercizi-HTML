@@ -1,0 +1,15 @@
+.uno {
+  width: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 20px;
+  column-gap: 10px;
+  border: 3px solid red;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: darksalmon;
+  border: 3px solid black;
+}

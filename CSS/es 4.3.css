@@ -1,0 +1,21 @@
+.uno {
+  width: 200px;
+  height: 200px;
+  padding: 300px;
+  background-color: red;
+}
+
+.due {
+  width: 200px;
+  height: 200px;
+  margin: 300px;
+  background-color: blue;
+}
+
+.tre {
+  width: 200px;
+  height: 200px;
+  padding: 300px;
+  margin: 300px;
+  background-color: green;
+}

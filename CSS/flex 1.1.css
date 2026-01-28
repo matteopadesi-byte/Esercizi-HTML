@@ -1,0 +1,33 @@
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: #3498db;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+}
+
+.uno {
+  display: flex;
+  flex-direction: row;
+  border: 3px solid orange;
+}
+
+.due {
+  display: flex;
+  flex-direction: row-reverse;
+  border: 3px solid lightgreen;
+}
+
+.tre {
+  display: flex;
+  flex-direction: column;
+  border: 3px solid saddlebrown;
+}
+
+.quattro {
+  display: flex;
+  flex-direction: column-reverse;
+  border: 3px solid magenta;
+}

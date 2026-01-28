@@ -1,0 +1,49 @@
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: blanchedalmond;
+  border: 2px solid black;
+  text-align: center;
+}
+
+.uno {
+  display: flex;
+  justify-content: flex-start;
+  width: 800px;
+  border: 5px solid red;
+}
+
+.due {
+  display: flex;
+  justify-content: flex-end;
+  width: 800px;
+  border: 5px solid red;
+}
+
+.tre {
+  display: flex;
+  justify-content: center;
+  width: 800px;
+  border: 5px solid red;
+}
+
+.quattro {
+  display: flex;
+  justify-content: space-between;
+  width: 800px;
+  border: 5px solid red;
+}
+
+.cinque {
+  display: flex;
+  justify-content: space-around;
+  width: 800px;
+  border: 5px solid red;
+}
+
+.sei {
+  display: flex;
+  justify-content: space-evenly;
+  width: 800px;
+  border: 5px solid red;
+}

@@ -1,0 +1,13 @@
+.container {
+  width: 100%;
+  background-color: aquamarine;
+}
+
+.box {
+  width: 100px;
+  background-color: aquamarine;
+}
+
+.grow {
+  background-color: aquamarine;
+}

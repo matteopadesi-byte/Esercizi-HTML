@@ -1,0 +1,51 @@
+.uno {
+  height: 300px;
+  width: 1000px;
+  border: 3px solid red;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+}
+
+.due {
+  height: 300px;
+  width: 1000px;
+  border: 3px solid red;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+
+.tre {
+  height: 300px;
+  width: 1000px;
+  border: 3px solid red;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+}
+
+.quattro {
+  height: 300px;
+  width: 1000px;
+  border: 3px solid red;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.cinque {
+  height: 300px;
+  width: 1000px;
+  border: 3px solid red;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+}
+
+.box {
+  width: 100px;
+  background-color: blanchedalmond;
+  border: 2px solid black;
+  text-align: center;
+}

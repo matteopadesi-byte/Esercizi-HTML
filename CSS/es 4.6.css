@@ -1,0 +1,47 @@
+.uno {
+  width: 400px;
+  height: 400px;
+  margin: auto;
+  padding: 100px;
+  background-color: lightgray;
+  border-left: 5px solid black;
+}
+
+.due {
+  width: 400px;
+  height: 400px;
+  margin: auto;
+  padding: 100px;
+  background-color: darksalmon;
+  border-left: 5px solid magenta;
+  border-top: 5px solid cyan;
+  border-right: gold;
+  border-bottom: 5px solid lawngreen;
+}
+
+.tre {
+  width: 400px;
+  height: 400px;
+  margin: auto;
+  padding: 100px;
+  background-color: lightgray;
+  border-radius: 10px 20px 30px 40px;
+}
+
+.quattro {
+  width: 400px;
+  height: 400px;
+  margin: auto;
+  padding: 100px;
+  background-color: lightcoral;
+  border-radius: 50%;
+}
+
+.cinque {
+  width: 400px;
+  height: 800px;
+  margin: auto;
+  padding: 100px;
+  background-color: lightseagreen;
+  border-radius: 50%;
+}
