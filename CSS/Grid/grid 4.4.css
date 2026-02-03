@@ -1,0 +1,14 @@
+.grid-uno {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.grid-due {
+  display: grid;
+  grid-template-columns: repeat(4, 100px);
+}
+
+.grid-tre {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr 2fr);
+}
