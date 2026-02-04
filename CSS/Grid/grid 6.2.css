@@ -1,0 +1,17 @@
+.grid-container {
+  display: grid;
+  height: 1400px;
+  width: 1400px;
+  grid-template-columns: repeat(3, 200px);
+  grid-template-rows: repeat(3, 200px);
+  gap: 10px;
+  background-color: lightblue;
+  place-content: center;
+}
+
+.item {
+  background-color: red;
+  place-items: center;
+  justify-items: end;
+  align-items: start;
+}

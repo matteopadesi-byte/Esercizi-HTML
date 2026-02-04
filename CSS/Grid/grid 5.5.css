@@ -1,0 +1,15 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(4, 200px);
+  grid-template-rows: repeat(3, 200px);
+  gap: 10px;
+}
+
+.item {
+  background-color: red;
+}
+
+.footer {
+  background-color: blue;
+  grid-column: 1/-1;
+}
