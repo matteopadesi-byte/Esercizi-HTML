@@ -1,0 +1,31 @@
+p {
+  display: none;
+}
+
+@media screen and (min-width: 479px) {
+  #smart-port {
+    background-color: green;
+    display: block;
+  }
+}
+
+@media screen and (min-width: 767px) and (orientation: landscape) {
+  #smart-land {
+    background-color: lightblue;
+    display: block;
+  }
+}
+
+@media screen and (min-width: 1023px) {
+  #tablet {
+    background-color: lightcoral;
+    display: block;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  #desk {
+    background-color: orange;
+    display: block;
+  }
+}
