@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Esercizio DOM</title>
+    <style>
+      .accordion-body {
+        display: none;
+        padding: 12px;
+      }
+      .accordion-body.aperto {
+        display: block;
+      }
+      .accordion-header {
+        cursor: pointer;
+        padding: 12px;
+        background: #f0f0f0;
+        border: 1px solid #ddd;
+      }
+      .accordion-header:hover {
+        background: #e0e0e0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="accordion">
+      <div class="accordion-item">
+        <h3 class="accordion-header">Cos'è JavaScript?</h3>
+        <div class="accordion-body">
+          <p>JavaScript è un linguaggio di programmazione creato nel 1995...</p>
+        </div>
+      </div>
+      <div class="accordion-item">
+        <h3 class="accordion-header">Cos'è il DOM?</h3>
+        <div class="accordion-body">
+          <p>Il DOM è la rappresentazione ad albero della pagina HTML...</p>
+        </div>
+      </div>
+      <div class="accordion-item">
+        <h3 class="accordion-header">
+          Cos'è un evento e perché è centrale in JavaScript?
+        </h3>
+        <div class="accordion-body">
+          <p>
+            Un evento è un segnale che il browser genera quando succede
+            qualcosa. JavaScript funziona con un modello a eventi: voi
+            registrate delle funzioni che il browser chiamerà quando l'evento si
+            verifica.
+          </p>
+        </div>
+      </div>
+      <div class="accordion-item">
+        <h3 class="accordion-header">Quale è la risposta a questa domanda?</h3>
+        <div class="accordion-body">
+          <p>La risposta è questa. Grazie per la domanda (ò _ ò)</p>
+        </div>
+      </div>
+    </div>
+
+    <script src="script6.js"></script>
+  </body>
+</html>
